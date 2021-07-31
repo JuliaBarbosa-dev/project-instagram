@@ -1,5 +1,5 @@
 # Project Instagram
-Esse é o repositóri no qual eu fiz o interface de login do Instagram! 
+Esse é o repositório no qual eu fiz o interface de login do Instagram! 
 
 ### Tecnologias usadas:
 
